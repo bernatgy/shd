@@ -7,8 +7,8 @@
     <ProjectGuid>{3D8F1D56-6A06-4517-8CAA-6FB8F1C02582}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SHDTimer</RootNamespace>
-    <AssemblyName>SHDTimer</AssemblyName>
+    <RootNamespace>Shutdown</RootNamespace>
+    <AssemblyName>Shutdown</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
