@@ -1,0 +1,16 @@
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\bin\Release\SHDTimer.exe.config
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\bin\Release\SHDTimer.exe
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\bin\Release\SHDTimer.pdb
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\ErrDialog.g.cs
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\MainWindow.g.cs
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\App.g.cs
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\SHDTimer_MarkupCompile.cache
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\SHDTimer_MarkupCompile.lref
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\ErrDialog.baml
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\MainWindow.baml
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\SHDTimer.g.resources
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\SHDTimer.Properties.Resources.resources
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\SHDTimer.csproj.GenerateResource.Cache
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\SHDTimer.exe
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\SHDTimer.pdb
+C:\Users\gyber\Desktop\SHDTimer\SHDTimer\obj\Release\SHDTimer.csprojResolveAssemblyReference.cache
